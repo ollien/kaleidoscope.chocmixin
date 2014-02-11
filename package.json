@@ -1,7 +1,7 @@
 {
   "name": "Kaleidoscope",
   "description": "Diff Files in Kaleidoscope",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "init.js",
   "repository": {
     "type": "git",
