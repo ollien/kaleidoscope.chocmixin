@@ -36,3 +36,4 @@ function run() {
 Hooks.addMenuItem('Go/Diff in Kaleidoscope', 'cmd-ctrl-k', function() {
   run();
 });
+
