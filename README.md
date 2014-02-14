@@ -1,6 +1,6 @@
 # kaleidoscope.chocmixin
 
-A mixin for [Chocolat](http://www.chocolatapp.com) to diff open files in [Kaleidoscope](http://http://www.kaleidoscopeapp.com/).
+A mixin for [Chocolat](http://www.chocolatapp.com) to diff open files in [Kaleidoscope](http://www.kaleidoscopeapp.com).
 
 This mixin adds a menu item `Go > Diff in Kaleidoscope` and a shortcut `cmd-ctrl-k` that will open your currently open file or diff the files from your current split view in Kaleidoscope.
 
